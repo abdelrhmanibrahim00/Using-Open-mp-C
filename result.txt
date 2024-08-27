@@ -1,0 +1,4 @@
+The list of the accepted students to get the internship
+Number 	Name 	Credits 	GPA
+Total Sum of Int Fields: 0
+Total Sum of Double Fields: 0
